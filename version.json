@@ -1,7 +1,7 @@
 {
   "version": "1.0.4",
   "release_date": "8 November 2026",
-  "download_url": "https://github.com/Anzia-Studio-Tech/Anzia-Roof-Truss-Update/releases/download/v1.0.4/Anzia_Roof_Truss_v1.0.4.rbz",
+  "download_url": "https://github.com/Anzia-Studio-Tech/anzia-roof-truss-updates/releases/download/v1.0.4/Anzia_Roof_Truss_v1.0.4.rbz",
   "changelog": [
     "Kode plugin dienkripsi (.rbenc) agar tidak mudah dibongkar",
     "Ikon vektor PDF untuk macOS (tajam di layar Retina)",
